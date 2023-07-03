@@ -3,8 +3,8 @@
   <h3></h3>
 
 [![Wick3d-git's github stats](https://github-readme-stats.wick3d-git.vercel.app/api?username=wick3d-git&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wick3d-git&layout=compact&theme=nord)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![Streak Stats](https://github-readme-stats.wick3d-git.vercel.app/?user=wick3d-git&layout=compact&theme=nord)
+[![Readme Card](https://github-readme-stats.wick3d-git.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <img align="left" alt="Tux-Coding" width="503" src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif">
@@ -17,5 +17,5 @@
 <a href="https://www.lua.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" width=40 height=40> </a><a href="https://www.nixos.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="nixos" width="40" height="40"> </a> </p>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wick3d-git&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.wick3d-git.vercel.app/api/top-langs/?username=wick3d-git&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 </div>
