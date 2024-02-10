@@ -2,9 +2,9 @@
   <h1 align="center" style="font-family: Verdana, Geneva, Tahoma, sans-serif">Hi There 👋, I'm Anthony Abaray</h1>
   <h3></h3>
 
-[![Wick3d-git's github stats](https://github-readme-stats.wick3d-git.vercel.app/api?username=wick3d-git&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Wick3d-git's github stats](https://github-readme-stats.wick3d-git.vercel.app/api?username=wick3d-git&theme=nord&show_icons=true)](https://github.com/wick3d-git) 
 ![Streak Stats](https://streak-stats.demolab.com/?user=wick3d-git&layout=compact&theme=nord)
-[![Readme Card](https://github-readme-stats.wick3d-git.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.wick3d-git.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=nord)](https://github.com/wick3d-git/nix-config)
 
 </div>
 <img align="left" alt="Tux-Coding" width="503" src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif">
