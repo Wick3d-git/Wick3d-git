@@ -17,5 +17,5 @@
 <a href="https://www.lua.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg" width=40 height=40> </a><a href="https://www.nixos.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="nixos" width="40" height="40"> </a> </p>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.wick3d-git.vercel.app/api/top-langs/?username=wick3d-git&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-three-blue-39.vercel.app/api/top-langs/?username=wick3d-git&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 </div>
