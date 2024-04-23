@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats-three-blue-39.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=nord)](https://github.com/wick3d-git/nix-config)
 
 </div>
-<img align="left" alt="Tux-Coding" width="503" src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif">
+<!--<img align="left" alt="Tux-Coding" width="503" src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif">-->
 <p align="center">- 🔭 I’m currently working on my <a href="https://github.com/Wick3d-git/Nix-Config">NixOS-Config </a></p>
 
 <p align="center">- 🌱 I’m currently learning <strong>Nix, HTML, CSS, JS, PYTHON, LUA, JSON, RUBY</strong></p>
