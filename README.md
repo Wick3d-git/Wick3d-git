@@ -2,8 +2,8 @@
   <h1 align="center" style="font-family: Verdana, Geneva, Tahoma, sans-serif">Hi There 👋, I'm Anthony Abaray</h1>
   <h3></h3>
 
-[![Wick3d-git's github stats](https://github-readme-stats-three-blue-39.vercel.app/api?username=wick3d-git&theme=nord&show_icons=true)](https://github.com/wick3d-git) 
-[![Readme Card](https://github-readme-stats-three-blue-39.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=nord)](https://github.com/wick3d-git/nix-config)
+[![Wick3d-git's github stats](https://github-readme-stats-three-blue-39.vercel.app/api?username=wick3d-git&theme=default&show_icons=true)](https://github.com/wick3d-git) 
+[![Readme Card](https://github-readme-stats-three-blue-39.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=default)](https://github.com/wick3d-git/nix-config)
 
 </div>
 <!--<img align="left" alt="Tux-Coding" width="503" src="https://media.tenor.com/NeJfHqkmdMIAAAAC/tux-linux-penguin.gif">-->
@@ -16,5 +16,5 @@
 <a href="https://www.lua.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg" width=40 height=40> </a><a href="https://www.nixos.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="nixos" width="40" height="40"> </a> </p>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats-three-blue-39.vercel.app/api/top-langs/?username=wick3d-git&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-three-blue-39.vercel.app/api/top-langs/?username=wick3d-git&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 </div>
