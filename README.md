@@ -3,7 +3,8 @@
   <h3></h3>
 
 [![Wick3d-git's github stats](https://github-readme-stats-three-blue-39.vercel.app/api?username=wick3d-git&theme=nord&show_icons=true)](https://github.com/wick3d-git) 
-![Streak Stats](https://streak-stats.demolab.com/?user=wick3d-git&layout=compact&theme=nord)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wick3d-git&theme=nord)](https://git.io/streak-stats)
+<!--[![Streak Stats](https://streak-stats.demolab.com/?user=wick3d-git&layout=compact&theme=nord)-->
 [![Readme Card](https://github-readme-stats-three-blue-39.vercel.app/api/pin/?username=wick3d-git&repo=nix-config&theme=nord)](https://github.com/wick3d-git/nix-config)
 
 </div>
